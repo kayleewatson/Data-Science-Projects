@@ -1,2 +1,2 @@
-# Data_Science_Projects
+# Data Science Projects
 Data science projects using datasets from Kaggle 
