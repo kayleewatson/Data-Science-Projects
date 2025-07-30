@@ -18,3 +18,5 @@ This simulated dataset entitled "Healthcare Data" came from Kaggle and includes 
 | Discharge Date |
 | Medication |
 | Test Results |
+
+The goal here was to use a Random Forest Regression model to predict the length of hospital admission for patients based on the given information. 
